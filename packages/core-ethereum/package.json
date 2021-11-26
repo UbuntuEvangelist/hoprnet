@@ -27,7 +27,7 @@
     "@hoprnet/hopr-utils": "workspace:packages/utils",
     "async-mutex": "^0.3.2",
     "bn.js": "5.2.0",
-    "chalk": "^4.1.2",
+    "chalk": "^5.0.0",
     "debug": "^4.3.2",
     "ethers": "5.5.1",
     "heap-js": "^2.1.6",
