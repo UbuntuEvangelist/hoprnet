@@ -6,7 +6,7 @@ import type { RemoteInfo, Socket as UDPSocket } from 'dgram'
 import { once, EventEmitter } from 'events'
 import { PeerStoreType, PublicNodesEmitter, DialOptions } from '../types'
 import Debug from 'debug'
-import { green, red } from 'chalk'
+import chalk from 'chalk'
 import { networkInterfaces } from 'os'
 import type { NetworkInterfaceInfo } from 'os'
 
@@ -221,7 +221,7 @@ class Listener extends EventEmitter implements InterfaceListener {
     this.addrs.relays = this.publicNodes.map(this.publicNodesToRelayMultiaddr.bind(this))
 
     log(
-      `relay ${peer.toB58String()} ${red(`removed`)}. Current addrs:\n\t${this.addrs.relays
+      `relay ${peer.toB58String()} ${chalk.red(`removed`)}. Current addrs:\n\t${this.addrs.relays
         .map((addr: Multiaddr) => addr.toString())
         .join(`\n\t`)}`
     )
@@ -256,7 +256,7 @@ class Listener extends EventEmitter implements InterfaceListener {
     this.addrs.relays = this.publicNodes.map(this.publicNodesToRelayMultiaddr.bind(this))
 
     log(
-      `relay ${peer.toB58String()} ${green(`added`)}. Current addrs:\n\t${this.addrs.relays
+      `relay ${peer.toB58String()} ${chalk.green(`added`)}. Current addrs:\n\t${this.addrs.relays
         .map((addr: Multiaddr) => addr.toString())
         .join(`\n\t`)}`
     )

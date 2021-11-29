@@ -25,7 +25,7 @@ import { AcknowledgementChallenge } from './acknowledgementChallenge'
 import type PeerId from 'peer-id'
 import BN from 'bn.js'
 import { Acknowledgement } from './acknowledgement'
-import { blue, green } from 'chalk'
+import chalk from 'chalk'
 import { debug } from '@hoprnet/hopr-utils'
 
 export const INTERMEDIATE_HOPS = 3 // 3 relayers and 1 destination
@@ -392,9 +392,9 @@ export class Packet {
     const unacknowledged = new UnacknowledgedTicket(this.ticket, this.ownKey, this.previousHop)
 
     log(
-      `Storing unacknowledged ticket. Expecting to receive a preImage for ${green(
+      `Storing unacknowledged ticket. Expecting to receive a preImage for ${chalk.green(
         this.ackChallenge.toHex()
-      )} from ${blue(pubKeyToPeerId(this.nextHop).toB58String())}`
+      )} from ${chalk.blue(pubKeyToPeerId(this.nextHop).toB58String())}`
     )
 
     await db.storePendingAcknowledgement(this.ackChallenge, false, unacknowledged)

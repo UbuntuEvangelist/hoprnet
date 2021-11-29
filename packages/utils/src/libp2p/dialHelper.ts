@@ -9,7 +9,7 @@ import type { TimeoutOpts } from '../async'
 import { abortableTimeout } from '../async'
 
 import { debug } from '../process'
-import { green } from 'chalk'
+import chalk from 'chalk'
 
 const verbose = debug('hopr-core:libp2p:verbose')
 const logError = debug(`hopr-core:libp2p:error`)
@@ -108,7 +108,7 @@ async function doDial(
     const knownAddresses = libp2p.peerStore.get(destination)?.addresses ?? []
 
     logError(
-      `Querying the DHT for ${green(destination.toB58String())} failed. Known addresses:\n` +
+      `Querying the DHT for ${chalk.green(destination.toB58String())} failed. Known addresses:\n` +
         `  ${knownAddresses.length > 0 ? renderPeerStoreAddresses(knownAddresses) : 'No addresses known'}.\n` +
         `${err ? `\n${err.message}` : ''}`
     )
@@ -134,7 +134,7 @@ async function doDial(
   if (err != null || struct == null) {
     const knownAddresses = libp2p.peerStore.get(destination)?.addresses ?? []
     logError(
-      `Cannot connect to ${green(
+      `Cannot connect to ${chalk.green(
         destination.toB58String()
       )}. New addresses after DHT request did not lead to a connection. Used addresses:\n` +
         `  ${knownAddresses.length > 0 ? renderPeerStoreAddresses(knownAddresses) : 'No addresses known'}` +

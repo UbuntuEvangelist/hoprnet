@@ -9,7 +9,7 @@ import { dial as dialHelper } from '@hoprnet/hopr-utils'
 import debug from 'debug'
 
 import { WebRTCUpgrader, WebRTCConnection } from '../webrtc'
-import { green } from 'chalk'
+import chalk from 'chalk'
 import { RELAY_CIRCUIT_TIMEOUT, RELAY, DELIVERY } from '../constants'
 import { RelayConnection } from './connection'
 import { RelayHandshake, RelayHandshakeMessage } from './handshake'
@@ -88,7 +88,7 @@ class Relay {
 
     if (baseConnection.status !== 'SUCCESS') {
       error(
-        `Could not establish relayed conntection over ${green(relay.toB58String())} to ${green(
+        `Could not establish relayed conntection over ${chalk.green(relay.toB58String())} to ${chalk.green(
           destination.toB58String()
         )}`,
         baseConnection.status

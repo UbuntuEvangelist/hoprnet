@@ -15,7 +15,7 @@ import {
 import { parseAddress } from './utils'
 
 import Debug from 'debug'
-import { green } from 'chalk'
+import chalk from 'chalk'
 import assert from 'assert'
 
 const log = Debug('hopr-connect:filter')
@@ -47,9 +47,9 @@ export class Filter {
    */
   setAddrs(announcedAddrs: Multiaddr[], listeningAddrs: Multiaddr[]): void {
     log(`announcedAddrs:`)
-    announcedAddrs.forEach((ma: Multiaddr) => log(` ${green(ma.toString())}`))
+    announcedAddrs.forEach((ma: Multiaddr) => log(` ${chalk.green(ma.toString())}`))
     log(`listeningAddrs:`)
-    listeningAddrs.forEach((ma: Multiaddr) => log(` ${green(ma.toString())}`))
+    listeningAddrs.forEach((ma: Multiaddr) => log(` ${chalk.green(ma.toString())}`))
 
     this.announcedAddrs = []
     for (const announcedAddr of announcedAddrs) {

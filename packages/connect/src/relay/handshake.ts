@@ -2,7 +2,7 @@ import type { Stream, StreamType } from '../types'
 import handshake, { Handshake } from 'it-handshake'
 import type PeerId from 'peer-id'
 
-import { green, yellow } from 'chalk'
+import chalk from 'chalk'
 import { pubKeyToPeerId } from '@hoprnet/hopr-utils'
 
 import { RelayState } from './state'
@@ -102,7 +102,7 @@ class RelayHandshake {
     try {
       chunk = await this.shaker.read()
     } catch (err) {
-      error(`Error while reading answer from ${green(relay.toB58String())}.`)
+      error(`Error while reading answer from ${chalk.green(relay.toB58String())}.`)
       if (err instanceof Error) {
         error(err.message)
       } else {
@@ -128,9 +128,9 @@ class RelayHandshake {
     switch (answer as RelayHandshakeMessage) {
       case RelayHandshakeMessage.OK:
         log(
-          `Successfully established outbound relayed connection with ${green(
+          `Successfully established outbound relayed connection with ${chalk.green(
             destination.toB58String()
-          )} over relay ${green(relay.toB58String())}`
+          )} over relay ${chalk.green(relay.toB58String())}`
         )
         return {
           success: true,
@@ -138,9 +138,9 @@ class RelayHandshake {
         }
       default:
         error(
-          `Could not establish relayed connection to ${green(destination.toB58String())} over relay ${green(
+          `Could not establish relayed connection to ${chalk.green(destination.toB58String())} over relay ${chalk.green(
             relay.toB58String()
-          )}. Answer was: <${yellow(handshakeMessageToString(answer))}>`
+          )}. Answer was: <${chalk.yellow(handshakeMessageToString(answer))}>`
         )
 
         return {
@@ -182,7 +182,11 @@ class RelayHandshake {
     if (chunk == null || chunk.length == 0) {
       this.shaker.write(Uint8Array.of(RelayHandshakeMessage.FAIL_INVALID_PUBLIC_KEY))
       this.shaker.rest()
-      error(`Received empty message from peer ${yellow(source)}. Ending stream because unable to identify counterparty`)
+      error(
+        `Received empty message from peer ${chalk.yellow(
+          source
+        )}. Ending stream because unable to identify counterparty`
+      )
       return
     }
 
@@ -330,9 +334,9 @@ class RelayHandshake {
     }
 
     log(
-      `Successfully established inbound relayed connection from initiator ${green(
+      `Successfully established inbound relayed connection from initiator ${chalk.green(
         initiator.toB58String()
-      )} over relay ${green(source.toB58String())}.`
+      )} over relay ${chalk.green(source.toB58String())}.`
     )
 
     this.shaker.write(Uint8Array.of(RelayHandshakeMessage.OK))
