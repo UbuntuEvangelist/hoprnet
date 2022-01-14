@@ -39,7 +39,7 @@ used to generate the initial channel commitment.
 
 #### Defined in
 
-[packages/core-ethereum/src/commitment.ts:69](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/commitment.ts#L69)
+[packages/core-ethereum/src/commitment.ts:69](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/commitment.ts#L69)
 
 ## Properties
 
@@ -87,4 +87,4 @@ All members need to be specified (non-null).
 
 #### Defined in
 
-[packages/core-ethereum/src/commitment.ts:82](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/commitment.ts#L82)
+[packages/core-ethereum/src/commitment.ts:82](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/commitment.ts#L82)

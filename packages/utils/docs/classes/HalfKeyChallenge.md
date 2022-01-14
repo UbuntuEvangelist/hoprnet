@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:12](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L12)
+[types/halfKeyChallenge.ts:12](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L12)
 
 ## Accessors
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:55](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L55)
+[types/halfKeyChallenge.ts:55](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L55)
 
 ## Methods
 
@@ -68,7 +68,7 @@
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:67](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L67)
+[types/halfKeyChallenge.ts:67](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L67)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:71](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L71)
+[types/halfKeyChallenge.ts:71](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L71)
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:59](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L59)
+[types/halfKeyChallenge.ts:59](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L59)
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:38](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L38)
+[types/halfKeyChallenge.ts:38](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L38)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:63](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L63)
+[types/halfKeyChallenge.ts:63](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L63)
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:47](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L47)
+[types/halfKeyChallenge.ts:47](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L47)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:42](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L42)
+[types/halfKeyChallenge.ts:42](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L42)
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:18](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L18)
+[types/halfKeyChallenge.ts:18](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L18)
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:34](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L34)
+[types/halfKeyChallenge.ts:34](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L34)
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:51](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L51)
+[types/halfKeyChallenge.ts:51](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L51)
 
 ___
 
@@ -238,4 +238,4 @@ ___
 
 #### Defined in
 
-[types/halfKeyChallenge.ts:26](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L26)
+[types/halfKeyChallenge.ts:26](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKeyChallenge.ts#L26)

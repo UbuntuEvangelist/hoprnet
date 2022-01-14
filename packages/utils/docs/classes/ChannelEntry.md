@@ -55,7 +55,7 @@
 
 #### Defined in
 
-[types/channelEntry.ts:55](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L55)
+[types/channelEntry.ts:55](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L55)
 
 ## Properties
 
@@ -123,7 +123,7 @@ ___
 
 #### Defined in
 
-[types/channelEntry.ts:67](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L67)
+[types/channelEntry.ts:67](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L67)
 
 ## Methods
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[types/channelEntry.ts:128](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L128)
+[types/channelEntry.ts:128](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L128)
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 #### Defined in
 
-[types/channelEntry.ts:98](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L98)
+[types/channelEntry.ts:98](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L98)
 
 ___
 
@@ -165,7 +165,7 @@ ___
 
 #### Defined in
 
-[types/channelEntry.ts:112](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L112)
+[types/channelEntry.ts:112](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L112)
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 #### Defined in
 
-[types/channelEntry.ts:132](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L132)
+[types/channelEntry.ts:132](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L132)
 
 ___
 
@@ -199,7 +199,7 @@ ___
 
 #### Defined in
 
-[types/channelEntry.ts:71](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L71)
+[types/channelEntry.ts:71](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L71)
 
 ___
 
@@ -220,4 +220,4 @@ ___
 
 #### Defined in
 
-[types/channelEntry.ts:82](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L82)
+[types/channelEntry.ts:82](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/channelEntry.ts#L82)

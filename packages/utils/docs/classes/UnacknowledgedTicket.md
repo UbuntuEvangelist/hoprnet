@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[types/unacknowledgedTicket.ts:5](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L5)
+[types/unacknowledgedTicket.ts:5](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L5)
 
 ## Properties
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[types/unacknowledgedTicket.ts:41](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L41)
+[types/unacknowledgedTicket.ts:41](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L41)
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 #### Defined in
 
-[types/unacknowledgedTicket.ts:37](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L37)
+[types/unacknowledgedTicket.ts:37](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L37)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[types/unacknowledgedTicket.ts:21](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L21)
+[types/unacknowledgedTicket.ts:21](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L21)
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 #### Defined in
 
-[types/unacknowledgedTicket.ts:29](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L29)
+[types/unacknowledgedTicket.ts:29](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L29)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[types/unacknowledgedTicket.ts:33](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L33)
+[types/unacknowledgedTicket.ts:33](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L33)
 
 ___
 
@@ -154,7 +154,7 @@ ___
 
 #### Defined in
 
-[types/unacknowledgedTicket.ts:45](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L45)
+[types/unacknowledgedTicket.ts:45](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L45)
 
 ___
 
@@ -174,4 +174,4 @@ ___
 
 #### Defined in
 
-[types/unacknowledgedTicket.ts:11](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L11)
+[types/unacknowledgedTicket.ts:11](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/unacknowledgedTicket.ts#L11)

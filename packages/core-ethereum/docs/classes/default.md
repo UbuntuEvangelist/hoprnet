@@ -97,7 +97,7 @@ EventEmitter.constructor
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:63](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L63)
+[packages/core-ethereum/src/index.ts:63](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L63)
 
 ## Properties
 
@@ -107,7 +107,7 @@ EventEmitter.constructor
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:130](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L130)
+[packages/core-ethereum/src/index.ts:130](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L130)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:193](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L193)
+[packages/core-ethereum/src/index.ts:193](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L193)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:59](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L59)
+[packages/core-ethereum/src/index.ts:59](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L59)
 
 ___
 
@@ -182,7 +182,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:58](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L58)
+[packages/core-ethereum/src/index.ts:58](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L58)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:61](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L61)
+[packages/core-ethereum/src/index.ts:61](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L61)
 
 ___
 
@@ -202,7 +202,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:60](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L60)
+[packages/core-ethereum/src/index.ts:60](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L60)
 
 ___
 
@@ -317,7 +317,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:140](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L140)
+[packages/core-ethereum/src/index.ts:140](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L140)
 
 ___
 
@@ -337,7 +337,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:214](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L214)
+[packages/core-ethereum/src/index.ts:214](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L214)
 
 ___
 
@@ -351,7 +351,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:89](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L89)
+[packages/core-ethereum/src/index.ts:89](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L89)
 
 ___
 
@@ -472,7 +472,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:339](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L339)
+[packages/core-ethereum/src/index.ts:339](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L339)
 
 ___
 
@@ -494,7 +494,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:369](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L369)
+[packages/core-ethereum/src/index.ts:369](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L369)
 
 ___
 
@@ -514,7 +514,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:159](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L159)
+[packages/core-ethereum/src/index.ts:159](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L159)
 
 ___
 
@@ -540,7 +540,7 @@ HOPR balance
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:177](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L177)
+[packages/core-ethereum/src/index.ts:177](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L177)
 
 ___
 
@@ -583,7 +583,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:126](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L126)
+[packages/core-ethereum/src/index.ts:126](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L126)
 
 ___
 
@@ -626,7 +626,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:197](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L197)
+[packages/core-ethereum/src/index.ts:197](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L197)
 
 ___
 
@@ -646,7 +646,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:155](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L155)
+[packages/core-ethereum/src/index.ts:155](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L155)
 
 ___
 
@@ -660,7 +660,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:181](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L181)
+[packages/core-ethereum/src/index.ts:181](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L181)
 
 ___
 
@@ -680,7 +680,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:163](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L163)
+[packages/core-ethereum/src/index.ts:163](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L163)
 
 ___
 
@@ -694,7 +694,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:167](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L167)
+[packages/core-ethereum/src/index.ts:167](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L167)
 
 ___
 
@@ -714,7 +714,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:331](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L331)
+[packages/core-ethereum/src/index.ts:331](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L331)
 
 ___
 
@@ -932,7 +932,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:349](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L349)
+[packages/core-ethereum/src/index.ts:349](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L349)
 
 ___
 
@@ -1077,7 +1077,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:234](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L234)
+[packages/core-ethereum/src/index.ts:234](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L234)
 
 ___
 
@@ -1098,7 +1098,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:277](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L277)
+[packages/core-ethereum/src/index.ts:277](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L277)
 
 ___
 
@@ -1118,7 +1118,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:248](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L248)
+[packages/core-ethereum/src/index.ts:248](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L248)
 
 ___
 
@@ -1310,7 +1310,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:151](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L151)
+[packages/core-ethereum/src/index.ts:151](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L151)
 
 ___
 
@@ -1331,7 +1331,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:201](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L201)
+[packages/core-ethereum/src/index.ts:201](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L201)
 
 ___
 
@@ -1345,7 +1345,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:99](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L99)
+[packages/core-ethereum/src/index.ts:99](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L99)
 
 ___
 
@@ -1361,7 +1361,7 @@ Stops the connector.
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:135](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L135)
+[packages/core-ethereum/src/index.ts:135](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L135)
 
 ___
 
@@ -1379,7 +1379,7 @@ ETH balance
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:189](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L189)
+[packages/core-ethereum/src/index.ts:189](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L189)
 
 ___
 
@@ -1393,7 +1393,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:210](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L210)
+[packages/core-ethereum/src/index.ts:210](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L210)
 
 ___
 
@@ -1415,7 +1415,7 @@ ___
 
 #### Defined in
 
-[packages/core-ethereum/src/index.ts:144](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L144)
+[packages/core-ethereum/src/index.ts:144](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/index.ts#L144)
 
 ___
 

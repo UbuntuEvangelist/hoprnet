@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[types/acknowledgedTicket.ts:5](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L5)
+[types/acknowledgedTicket.ts:5](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L5)
 
 ## Properties
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[types/acknowledgedTicket.ts:39](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L39)
+[types/acknowledgedTicket.ts:39](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L39)
 
 ## Methods
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[types/acknowledgedTicket.ts:16](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L16)
+[types/acknowledgedTicket.ts:16](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L16)
 
 ___
 
@@ -114,7 +114,7 @@ ___
 
 #### Defined in
 
-[types/acknowledgedTicket.ts:25](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L25)
+[types/acknowledgedTicket.ts:25](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L25)
 
 ___
 
@@ -134,4 +134,4 @@ ___
 
 #### Defined in
 
-[types/acknowledgedTicket.ts:29](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L29)
+[types/acknowledgedTicket.ts:29](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/acknowledgedTicket.ts#L29)

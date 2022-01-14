@@ -40,7 +40,7 @@
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:67](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L67)
+[packages/core/src/channel-strategy.ts:67](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L67)
 
 ## Methods
 
@@ -61,7 +61,7 @@
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:57](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L57)
+[packages/core/src/channel-strategy.ts:57](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L57)
 
 ___
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:52](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L52)
+[packages/core/src/channel-strategy.ts:52](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L52)
 
 ___
 
@@ -102,4 +102,4 @@ ___
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:62](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L62)
+[packages/core/src/channel-strategy.ts:62](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L62)

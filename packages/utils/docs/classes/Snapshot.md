@@ -41,7 +41,7 @@ Represents a snapshot in the blockchain.
 
 #### Defined in
 
-[types/snapshot.ts:9](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/snapshot.ts#L9)
+[types/snapshot.ts:9](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/snapshot.ts#L9)
 
 ## Properties
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[types/snapshot.ts:28](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/snapshot.ts#L28)
+[types/snapshot.ts:28](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/snapshot.ts#L28)
 
 ## Methods
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[types/snapshot.ts:20](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/snapshot.ts#L20)
+[types/snapshot.ts:20](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/snapshot.ts#L20)
 
 ___
 
@@ -107,4 +107,4 @@ ___
 
 #### Defined in
 
-[types/snapshot.ts:11](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/snapshot.ts#L11)
+[types/snapshot.ts:11](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/snapshot.ts#L11)

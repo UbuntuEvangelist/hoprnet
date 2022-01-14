@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[crypto/prg.ts:20](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L20)
+[crypto/prg.ts:20](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L20)
 
 ## Properties
 
@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[crypto/prg.ts:18](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L18)
+[crypto/prg.ts:18](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L18)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[crypto/prg.ts:17](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L17)
+[crypto/prg.ts:17](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L17)
 
 ## Methods
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[crypto/prg.ts:35](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L35)
+[crypto/prg.ts:35](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L35)
 
 ___
 
@@ -94,4 +94,4 @@ ___
 
 #### Defined in
 
-[crypto/prg.ts:25](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L25)
+[crypto/prg.ts:25](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/crypto/prg.ts#L25)

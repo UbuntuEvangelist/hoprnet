@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[packages/core-ethereum/src/chain.ts:8](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/chain.ts#L8)
+[packages/core-ethereum/src/chain.ts:8](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/chain.ts#L8)
 
 ## Properties
 
@@ -65,7 +65,7 @@
 
 #### Defined in
 
-[packages/core-ethereum/src/chain.ts:7](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/chain.ts#L7)
+[packages/core-ethereum/src/chain.ts:7](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/chain.ts#L7)
 
 ## Methods
 
@@ -92,4 +92,4 @@
 
 #### Defined in
 
-[packages/core-ethereum/src/chain.ts:9](https://github.com/hoprnet/hoprnet/blob/master/packages/core-ethereum/src/chain.ts#L9)
+[packages/core-ethereum/src/chain.ts:9](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core-ethereum/src/chain.ts#L9)

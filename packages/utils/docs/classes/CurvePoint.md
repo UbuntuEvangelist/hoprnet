@@ -45,7 +45,7 @@
 
 #### Defined in
 
-[types/curvePoint.ts:11](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L11)
+[types/curvePoint.ts:11](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L11)
 
 ## Accessors
 
@@ -59,7 +59,7 @@
 
 #### Defined in
 
-[types/curvePoint.ts:54](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L54)
+[types/curvePoint.ts:54](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L54)
 
 ## Methods
 
@@ -79,7 +79,7 @@
 
 #### Defined in
 
-[types/curvePoint.ts:66](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L66)
+[types/curvePoint.ts:66](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L66)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:58](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L58)
+[types/curvePoint.ts:58](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L58)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:37](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L37)
+[types/curvePoint.ts:37](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L37)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:62](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L62)
+[types/curvePoint.ts:62](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L62)
 
 ___
 
@@ -135,7 +135,7 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:46](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L46)
+[types/curvePoint.ts:46](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L46)
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:41](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L41)
+[types/curvePoint.ts:41](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L41)
 
 ___
 
@@ -169,7 +169,7 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:17](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L17)
+[types/curvePoint.ts:17](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L17)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:33](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L33)
+[types/curvePoint.ts:33](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L33)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:50](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L50)
+[types/curvePoint.ts:50](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L50)
 
 ___
 
@@ -229,4 +229,4 @@ ___
 
 #### Defined in
 
-[types/curvePoint.ts:25](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L25)
+[types/curvePoint.ts:25](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/curvePoint.ts#L25)

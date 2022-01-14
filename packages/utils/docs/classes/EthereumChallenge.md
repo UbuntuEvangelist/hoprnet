@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[types/ethereumChallenge.ts:4](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L4)
+[types/ethereumChallenge.ts:4](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L4)
 
 ## Properties
 
@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[types/ethereumChallenge.ts:30](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L30)
+[types/ethereumChallenge.ts:30](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L30)
 
 ## Methods
 
@@ -63,7 +63,7 @@
 
 #### Defined in
 
-[types/ethereumChallenge.ts:26](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L26)
+[types/ethereumChallenge.ts:26](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L26)
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 #### Defined in
 
-[types/ethereumChallenge.ts:18](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L18)
+[types/ethereumChallenge.ts:18](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L18)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[types/ethereumChallenge.ts:22](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L22)
+[types/ethereumChallenge.ts:22](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L22)
 
 ___
 
@@ -111,4 +111,4 @@ ___
 
 #### Defined in
 
-[types/ethereumChallenge.ts:14](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L14)
+[types/ethereumChallenge.ts:14](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ethereumChallenge.ts#L14)

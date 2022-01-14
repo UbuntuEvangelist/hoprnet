@@ -46,7 +46,7 @@ as this makes interop with the underlying ECDSA library simpler.
 
 #### Defined in
 
-[types/primitives.ts:209](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L209)
+[types/primitives.ts:209](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L209)
 
 ## Properties
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[types/primitives.ts:252](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L252)
+[types/primitives.ts:252](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L252)
 
 ## Methods
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[types/primitives.ts:237](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L237)
+[types/primitives.ts:237](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L237)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[types/primitives.ts:248](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L248)
+[types/primitives.ts:248](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L248)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[types/primitives.ts:244](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L244)
+[types/primitives.ts:244](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L244)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[types/primitives.ts:232](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L232)
+[types/primitives.ts:232](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L232)
 
 ___
 
@@ -158,4 +158,4 @@ ___
 
 #### Defined in
 
-[types/primitives.ts:218](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L218)
+[types/primitives.ts:218](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/primitives.ts#L218)

@@ -58,7 +58,7 @@
 
 #### Defined in
 
-[types/ticket.ts:50](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L50)
+[types/ticket.ts:50](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L50)
 
 ## Properties
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:140](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L140)
+[types/ticket.ts:140](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L140)
 
 ## Methods
 
@@ -134,7 +134,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:136](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L136)
+[types/ticket.ts:136](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L136)
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:161](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L161)
+[types/ticket.ts:161](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L161)
 
 ___
 
@@ -169,7 +169,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:185](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L185)
+[types/ticket.ts:185](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L185)
 
 ___
 
@@ -197,7 +197,7 @@ a ticket before we submit it to the blockchain.
 
 #### Defined in
 
-[types/ticket.ts:180](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L180)
+[types/ticket.ts:180](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L180)
 
 ___
 
@@ -211,7 +211,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:153](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L153)
+[types/ticket.ts:153](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L153)
 
 ___
 
@@ -225,7 +225,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:91](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L91)
+[types/ticket.ts:91](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L91)
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:95](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L95)
+[types/ticket.ts:95](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L95)
 
 ___
 
@@ -253,7 +253,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:122](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L122)
+[types/ticket.ts:122](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L122)
 
 ___
 
@@ -273,7 +273,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:157](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L157)
+[types/ticket.ts:157](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L157)
 
 ___
 
@@ -300,7 +300,7 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:61](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L61)
+[types/ticket.ts:61](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L61)
 
 ___
 
@@ -320,4 +320,4 @@ ___
 
 #### Defined in
 
-[types/ticket.ts:99](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L99)
+[types/ticket.ts:99](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/ticket.ts#L99)

@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[types/halfKey.ts:6](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L6)
+[types/halfKey.ts:6](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L6)
 
 ## Properties
 
@@ -45,7 +45,7 @@
 
 #### Defined in
 
-[types/halfKey.ts:41](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L41)
+[types/halfKey.ts:41](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L41)
 
 ## Methods
 
@@ -59,7 +59,7 @@
 
 #### Defined in
 
-[types/halfKey.ts:36](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L36)
+[types/halfKey.ts:36](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L36)
 
 ___
 
@@ -79,7 +79,7 @@ ___
 
 #### Defined in
 
-[types/halfKey.ts:28](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L28)
+[types/halfKey.ts:28](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L28)
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[types/halfKey.ts:20](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L20)
+[types/halfKey.ts:20](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L20)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[types/halfKey.ts:16](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L16)
+[types/halfKey.ts:16](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L16)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[types/halfKey.ts:24](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L24)
+[types/halfKey.ts:24](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L24)
 
 ___
 
@@ -141,4 +141,4 @@ ___
 
 #### Defined in
 
-[types/halfKey.ts:32](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L32)
+[types/halfKey.ts:32](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/halfKey.ts#L32)

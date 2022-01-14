@@ -43,7 +43,7 @@
 
 #### Defined in
 
-[types/accountEntry.ts:11](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L11)
+[types/accountEntry.ts:11](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L11)
 
 ## Properties
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[types/accountEntry.ts:35](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L35)
+[types/accountEntry.ts:35](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L35)
 
 ## Methods
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[types/accountEntry.ts:71](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L71)
+[types/accountEntry.ts:71](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L71)
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 #### Defined in
 
-[types/accountEntry.ts:63](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L63)
+[types/accountEntry.ts:63](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L63)
 
 ___
 
@@ -117,7 +117,7 @@ ___
 
 #### Defined in
 
-[types/accountEntry.ts:67](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L67)
+[types/accountEntry.ts:67](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L67)
 
 ___
 
@@ -131,7 +131,7 @@ ___
 
 #### Defined in
 
-[types/accountEntry.ts:76](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L76)
+[types/accountEntry.ts:76](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L76)
 
 ___
 
@@ -145,7 +145,7 @@ ___
 
 #### Defined in
 
-[types/accountEntry.ts:50](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L50)
+[types/accountEntry.ts:50](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L50)
 
 ___
 
@@ -165,4 +165,4 @@ ___
 
 #### Defined in
 
-[types/accountEntry.ts:39](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L39)
+[types/accountEntry.ts:39](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/accountEntry.ts#L39)

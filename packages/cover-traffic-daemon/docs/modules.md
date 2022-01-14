@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[index.ts:25](https://github.com/hoprnet/hoprnet/blob/master/packages/cover-traffic-daemon/src/index.ts#L25)
+[index.ts:25](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/cover-traffic-daemon/src/index.ts#L25)
 
 ## Functions
 
@@ -47,4 +47,4 @@
 
 #### Defined in
 
-[index.ts:92](https://github.com/hoprnet/hoprnet/blob/master/packages/cover-traffic-daemon/src/index.ts#L92)
+[index.ts:92](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/cover-traffic-daemon/src/index.ts#L92)

@@ -119,7 +119,7 @@ EventEmitter.constructor
 
 #### Defined in
 
-[packages/core/src/index.ts:143](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L143)
+[packages/core/src/index.ts:143](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L143)
 
 ## Properties
 
@@ -129,7 +129,7 @@ EventEmitter.constructor
 
 #### Defined in
 
-[packages/core/src/index.ts:125](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L125)
+[packages/core/src/index.ts:125](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L125)
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:131](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L131)
+[packages/core/src/index.ts:131](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L131)
 
 ___
 
@@ -149,7 +149,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:129](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L129)
+[packages/core/src/index.ts:129](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L129)
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:128](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L128)
+[packages/core/src/index.ts:128](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L128)
 
 ___
 
@@ -169,7 +169,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:133](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L133)
+[packages/core/src/index.ts:133](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L133)
 
 ___
 
@@ -179,7 +179,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:130](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L130)
+[packages/core/src/index.ts:130](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L130)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:127](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L127)
+[packages/core/src/index.ts:127](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L127)
 
 ___
 
@@ -199,7 +199,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:123](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L123)
+[packages/core/src/index.ts:123](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L123)
 
 ___
 
@@ -209,7 +209,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:126](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L126)
+[packages/core/src/index.ts:126](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L126)
 
 ___
 
@@ -328,7 +328,7 @@ to the DHT routing table.
 
 #### Defined in
 
-[packages/core/src/index.ts:392](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L392)
+[packages/core/src/index.ts:392](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L392)
 
 ___
 
@@ -354,7 +354,7 @@ Promise that resolves once announce transaction has been published
 
 #### Defined in
 
-[packages/core/src/index.ts:713](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L713)
+[packages/core/src/index.ts:713](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L713)
 
 ___
 
@@ -374,7 +374,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:870](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L870)
+[packages/core/src/index.ts:870](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L870)
 
 ___
 
@@ -388,7 +388,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:666](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L666)
+[packages/core/src/index.ts:666](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L666)
 
 ___
 
@@ -473,7 +473,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:680](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L680)
+[packages/core/src/index.ts:680](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L680)
 
 ___
 
@@ -533,7 +533,7 @@ Fund a payment channel
 
 #### Defined in
 
-[packages/core/src/index.ts:844](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L844)
+[packages/core/src/index.ts:844](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L844)
 
 ___
 
@@ -547,7 +547,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:472](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L472)
+[packages/core/src/index.ts:472](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L472)
 
 ___
 
@@ -571,7 +571,7 @@ List of addresses that is announced to other nodes
 
 #### Defined in
 
-[packages/core/src/index.ts:508](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L508)
+[packages/core/src/index.ts:508](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L508)
 
 ___
 
@@ -585,7 +585,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:781](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L781)
+[packages/core/src/index.ts:781](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L781)
 
 ___
 
@@ -599,7 +599,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:777](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L777)
+[packages/core/src/index.ts:777](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L777)
 
 ___
 
@@ -619,7 +619,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:931](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L931)
+[packages/core/src/index.ts:931](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L931)
 
 ___
 
@@ -639,7 +639,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:935](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L935)
+[packages/core/src/index.ts:935](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L935)
 
 ___
 
@@ -653,7 +653,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:659](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L659)
+[packages/core/src/index.ts:659](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L659)
 
 ___
 
@@ -667,7 +667,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:951](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L951)
+[packages/core/src/index.ts:951](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L951)
 
 ___
 
@@ -681,7 +681,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:499](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L499)
+[packages/core/src/index.ts:499](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L499)
 
 ___
 
@@ -704,7 +704,7 @@ that will relay that message before it reaches its destination.
 
 #### Defined in
 
-[packages/core/src/index.ts:982](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L982)
+[packages/core/src/index.ts:982](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L982)
 
 ___
 
@@ -720,7 +720,7 @@ List the addresses on which the node is listening
 
 #### Defined in
 
-[packages/core/src/index.ts:539](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L539)
+[packages/core/src/index.ts:539](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L539)
 
 ___
 
@@ -757,7 +757,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:785](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L785)
+[packages/core/src/index.ts:785](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L785)
 
 ___
 
@@ -779,7 +779,7 @@ Gets the observed addresses of a given peer.
 
 #### Defined in
 
-[packages/core/src/index.ts:547](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L547)
+[packages/core/src/index.ts:547](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L547)
 
 ___
 
@@ -799,7 +799,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:939](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L939)
+[packages/core/src/index.ts:939](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L939)
 
 ___
 
@@ -813,7 +813,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:905](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L905)
+[packages/core/src/index.ts:905](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L905)
 
 ___
 
@@ -829,7 +829,7 @@ Returns the version of hopr-core.
 
 #### Defined in
 
-[packages/core/src/index.ts:479](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L479)
+[packages/core/src/index.ts:479](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L479)
 
 ___
 
@@ -852,7 +852,7 @@ If error provided is considered an out of funds error
 
 #### Defined in
 
-[packages/core/src/index.ts:342](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L342)
+[packages/core/src/index.ts:342](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L342)
 
 ___
 
@@ -930,7 +930,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:311](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L311)
+[packages/core/src/index.ts:311](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L311)
 
 ___
 
@@ -1032,7 +1032,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:330](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L330)
+[packages/core/src/index.ts:330](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L330)
 
 ___
 
@@ -1056,7 +1056,7 @@ Called whenever a peer is announced
 
 #### Defined in
 
-[packages/core/src/index.ts:361](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L361)
+[packages/core/src/index.ts:361](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L361)
 
 ___
 
@@ -1076,7 +1076,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:773](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L773)
+[packages/core/src/index.ts:773](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L773)
 
 ___
 
@@ -1150,7 +1150,7 @@ Open a payment channel
 
 #### Defined in
 
-[packages/core/src/index.ts:805](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L805)
+[packages/core/src/index.ts:805](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L805)
 
 ___
 
@@ -1164,7 +1164,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:684](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L684)
+[packages/core/src/index.ts:684](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L684)
 
 ___
 
@@ -1188,7 +1188,7 @@ latency
 
 #### Defined in
 
-[packages/core/src/index.ts:641](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L641)
+[packages/core/src/index.ts:641](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L641)
 
 ___
 
@@ -1333,7 +1333,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:926](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L926)
+[packages/core/src/index.ts:926](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L926)
 
 ___
 
@@ -1493,7 +1493,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:556](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L556)
+[packages/core/src/index.ts:556](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L556)
 
 ___
 
@@ -1513,7 +1513,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:768](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L768)
+[packages/core/src/index.ts:768](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L768)
 
 ___
 
@@ -1566,7 +1566,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:947](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L947)
+[packages/core/src/index.ts:947](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L947)
 
 ___
 
@@ -1580,7 +1580,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:790](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L790)
+[packages/core/src/index.ts:790](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L790)
 
 ___
 
@@ -1614,7 +1614,7 @@ If the node is not funded, it will throw.
 
 #### Defined in
 
-[packages/core/src/index.ts:188](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L188)
+[packages/core/src/index.ts:188](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L188)
 
 ___
 
@@ -1628,7 +1628,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:160](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L160)
+[packages/core/src/index.ts:160](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L160)
 
 ___
 
@@ -1644,7 +1644,7 @@ Shuts down the node and saves keys and peerBook in the database
 
 #### Defined in
 
-[packages/core/src/index.ts:486](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L486)
+[packages/core/src/index.ts:486](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L486)
 
 ___
 
@@ -1665,7 +1665,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:677](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L677)
+[packages/core/src/index.ts:677](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L677)
 
 ___
 
@@ -1679,7 +1679,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:410](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L410)
+[packages/core/src/index.ts:410](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L410)
 
 ___
 
@@ -1697,7 +1697,7 @@ MAX_DELAY is reached, this function will reject.
 
 #### Defined in
 
-[packages/core/src/index.ts:998](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L998)
+[packages/core/src/index.ts:998](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L998)
 
 ___
 
@@ -1711,7 +1711,7 @@ ___
 
 #### Defined in
 
-[packages/core/src/index.ts:1030](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L1030)
+[packages/core/src/index.ts:1030](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L1030)
 
 ___
 
@@ -1735,7 +1735,7 @@ Withdraw on-chain assets to a given address
 
 #### Defined in
 
-[packages/core/src/index.ts:962](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/index.ts#L962)
+[packages/core/src/index.ts:962](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/index.ts#L962)
 
 ___
 

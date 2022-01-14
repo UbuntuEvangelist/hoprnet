@@ -35,7 +35,7 @@
 
 #### Defined in
 
-[types/response.ts:11](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/response.ts#L11)
+[types/response.ts:11](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/response.ts#L11)
 
 ## Properties
 
@@ -45,7 +45,7 @@
 
 #### Defined in
 
-[types/response.ts:45](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/response.ts#L45)
+[types/response.ts:45](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/response.ts#L45)
 
 ## Methods
 
@@ -59,7 +59,7 @@
 
 #### Defined in
 
-[types/response.ts:37](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/response.ts#L37)
+[types/response.ts:37](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/response.ts#L37)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[types/response.ts:41](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/response.ts#L41)
+[types/response.ts:41](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/response.ts#L41)
 
 ___
 
@@ -87,7 +87,7 @@ ___
 
 #### Defined in
 
-[types/response.ts:33](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/response.ts#L33)
+[types/response.ts:33](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/response.ts#L33)
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[types/response.ts:47](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/response.ts#L47)
+[types/response.ts:47](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/response.ts#L47)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[types/response.ts:29](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/response.ts#L29)
+[types/response.ts:29](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/response.ts#L29)
 
 ___
 
@@ -142,4 +142,4 @@ ___
 
 #### Defined in
 
-[types/response.ts:25](https://github.com/hoprnet/hoprnet/blob/master/packages/utils/src/types/response.ts#L25)
+[types/response.ts:25](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/utils/src/types/response.ts#L25)

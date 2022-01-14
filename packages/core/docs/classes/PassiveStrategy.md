@@ -52,7 +52,7 @@ ChannelStrategy.name
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:72](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L72)
+[packages/core/src/channel-strategy.ts:72](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L72)
 
 ___
 
@@ -70,7 +70,7 @@ ChannelStrategy.tickInterval
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:67](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L67)
+[packages/core/src/channel-strategy.ts:67](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L67)
 
 ## Methods
 
@@ -99,7 +99,7 @@ ChannelStrategy.onChannelWillClose
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:57](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L57)
+[packages/core/src/channel-strategy.ts:57](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L57)
 
 ___
 
@@ -128,7 +128,7 @@ ChannelStrategy.onWinningTicket
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:52](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L52)
+[packages/core/src/channel-strategy.ts:52](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L52)
 
 ___
 
@@ -156,7 +156,7 @@ ChannelStrategy.shouldCommitToChannel
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:62](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L62)
+[packages/core/src/channel-strategy.ts:62](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L62)
 
 ___
 
@@ -182,4 +182,4 @@ ChannelStrategy.tick
 
 #### Defined in
 
-[packages/core/src/channel-strategy.ts:74](https://github.com/hoprnet/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L74)
+[packages/core/src/channel-strategy.ts:74](https://github.com/UbuntuEvangelist/hoprnet/blob/master/packages/core/src/channel-strategy.ts#L74)
